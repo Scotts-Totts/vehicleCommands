@@ -11,6 +11,5 @@ client_scripts {
     "close-c.lua", 
     "wash-c.lua",
     "functions.lua",
-    "door-c.lua",
-    "dv-c.lua"
+    "door-c.lua"
 }
